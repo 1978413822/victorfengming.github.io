@@ -16,61 +16,62 @@ PyCharm是一种Python IDE，带有一整套可以帮助用户在使用Python语
 这里面分为两个版本,一个是免费的社区版本,另一是收费的专业版本.对于一些初学者,可以先安装一个社区版本练手,对于稍微有点儿基础的同学,可以下载专业版本,毕竟专业版本的功能更加丰富.
 ### 安装PyCharm  
 下载安装包,可以在[PyCharm官网](http://www.jetbrains.com/pycharm/?fromMenu)下载安装包  
-<div><img src="/images/posts/pycharm/install1.png" align="left"></div>
+
+<div><img src="/images/posts/pycharm/install1.png"></br>
 下载好安装包后,双击即可打开    
-<div align="left"><img src="/images/posts/pycharm/install2.png"></div>
+</div><div><img src="/images/posts/pycharm/install2.png"></br>
 打开后点击next  
-<div align="left"><img src="/images/posts/pycharm/install3.png"></div>
+</div><div><img src="/images/posts/pycharm/install3.png"></br>
 下面是选择安装的路径,这里我们放在D盘中  
-<div align="left"><img src="/images/posts/pycharm/install4.png"></div>
+</div><div><img src="/images/posts/pycharm/install4.png"></br>
 这里我们需要勾选安装软件的位数,如何查看自己计算机位数,可以参考[查看计算机位数以及操作系统位数](https://blog.csdn.net/a_dreaming_fish/article/details/50442617),选择自己对应的版本即可,后面create Associations是创建文件自动添加扩展名的,这里我们可以勾上,然后点击next  
-<div align="left"><img src="/images/posts/pycharm/install5.png"></div>
+</div><div><img src="/images/posts/pycharm/install5.png"></br>
 
 这里点击install  
-<div align="left"><img src="/images/posts/pycharm/install6.png"></div>
+</div><div><img src="/images/posts/pycharm/install6.png"></br>
 去喝一杯咖啡等待一下  
-<div align="left"><img src="/images/posts/pycharm/install7.png"></div>
+</div><div><img src="/images/posts/pycharm/install7.png"></br>
 这样就安装好了,我们直接点击Finsh,就完成了PyCharm的安装  
-<div align="left"><img src="/images/posts/pycharm/install8.png"></div>
+</div><div><img src="/images/posts/pycharm/install8.png"></br>
 
 ### 破解PyCharm  
 PyCharm安装成功后,我们在桌面会发现一个快捷方式,双击打开  
-<div align="left"><img src="/images/posts/pycharm/install9.png"></div>
+</div><div><img src="/images/posts/pycharm/install9.png"></br>
 打开后,这里需要让我们选择导入PyCharm的设置,可以下载[PyCharm设置文件](https://download.csdn.net/download/qq_40223983/11367284)对于第一次用的宝宝们,直接勾选下面的不导入设置,点击OK  
-<div align="left"><img src="/images/posts/pycharm/install10.png"></div>
+</div><div><img src="/images/posts/pycharm/install10.png"></br>
 这里让我们选择PyCharm的主题风格,宝宝们可以根据自己的喜好来选择,这里我们选择深色主题,点击Next  
-<div align="left"><img src="/images/posts/pycharm/install11.png"></div>
+</div><div><img src="/images/posts/pycharm/install11.png"></br>
 这里提示我们安装一些插件,我们直接跳过即可,点击start using PyCharm 开始使用  
-<div align="left"><img src="/images/posts/pycharm/install12.png"></div>
+</div><div><img src="/images/posts/pycharm/install12.png"></br>
 这里需要我们填写破解信息  
-<div align="left"><img src="/images/posts/pycharm/install13.png"></div>
+</div><div><img src="/images/posts/pycharm/install13.png"></br>
 小编给大家提供了一个网站[IntlliJ IDEA注册码](http://idea.lanyus.com/)  
 
-<div align="left"><img src="/images/posts/pycharm/install14.png"></div>
+</div><div><img src="/images/posts/pycharm/install14.png"></br>
 点击获得注册码  
-<div align="left"><img src="/images/posts/pycharm/install15.png"></div>
+</div><div><img src="/images/posts/pycharm/install15.png"></br>
 复制注册码到剪切板,但是在这之前还需要清除host文件中屏蔽的网址  
 在C:\Windows\System32\drivers\etc目录中有一个名为host的文件  
 右键选择打开方式  
-<div align="left"><img src="/images/posts/pycharm/install16.png"></div>
+</div><div><img src="/images/posts/pycharm/install16.png"></br>
 这里我们选择记事本打开,打开后将下面这两行代码粘贴到文件尾部,保存即可  
 
 ```
 0.0.0.0 account.jetbrains.com
 0.0.0.0 www.jetbrains.com
 ```
-<div align="left"><img src="/images/posts/pycharm/install17.png"></div>
+</div><div><img src="/images/posts/pycharm/install17.png"></br>
 下面我们回到[IntelliJ IDEA 注册码  
 ](http://idea.lanyus.com/)  
-<div align="left"><img src="/images/posts/pycharm/install18.png"></div>
+</div><div><img src="/images/posts/pycharm/install18.png"></br>
 复制注册码后,在PyCharm中选中Activation code 粘贴  
-<div align="left"><img src="/images/posts/pycharm/install19.png"></div>
+</div><div><img src="/images/posts/pycharm/install19.png"></br>
 这里需要将注册码前面的文字部分删除掉,然后注册码会变成绿色,如图所示  
-<div align="left"><img src="/images/posts/pycharm/install20.png"></div>
+</div><div><img src="/images/posts/pycharm/install20.png"></br>
 直接点击OK,出现这个界面说明PyCharm破解成功  
-<div align="left"><img src="/images/posts/pycharm/install21.png"></div>
+</div><div><img src="/images/posts/pycharm/install21.png"></br>
 到这里PyCharm的安装和破解过程就完成了,如何使用这个编辑器以及使用的一些小技巧,请关注小编后面的内容。
-
+</div>
 
 
 
