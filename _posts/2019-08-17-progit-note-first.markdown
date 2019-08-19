@@ -49,7 +49,7 @@ HTTP/S 协议
 [参与github上开源项目的大致流程和注意事项](https://www.cnblogs.com/metoy/p/4097001.html)  
 [Git SSH公钥配置](https://www.cnblogs.com/yangshifu/p/9919817.html)  
 
-
+[初次使用git配置以及git如何使用ssh密钥（将ssh密钥添加到github）](https://www.cnblogs.com/superGG1990/p/6844952.html)
 
 
 
