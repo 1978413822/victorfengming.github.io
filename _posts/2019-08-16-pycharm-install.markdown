@@ -17,7 +17,7 @@ PyCharm是一种Python IDE，带有一整套可以帮助用户在使用Python语
 ### 安装PyCharm  
 下载安装包,可以在[PyCharm官网](http://www.jetbrains.com/pycharm/?fromMenu)下载安装包  
 
-<img src="/images/posts/pycharm/install1.png" align=left />
+<img src="/images/posts/pycharm/install1.png" align="left">
 
 下载好安装包后,双击即可打开  
 
