@@ -44,9 +44,10 @@ HTTP/S 协议
 
 
 
-
-
-
+### 链接
+[git checkout 命令详解](https://www.cnblogs.com/kuyuecs/p/7111749.html)  
+[参与github上开源项目的大致流程和注意事项](https://www.cnblogs.com/metoy/p/4097001.html)  
+[Git SSH公钥配置](https://www.cnblogs.com/yangshifu/p/9919817.html)  
 
 
 
