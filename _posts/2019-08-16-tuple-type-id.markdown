@@ -35,9 +35,9 @@ tags: Python
 ### 版权说明
 
 ***
-如需转载请注明出处：[凤明的博客](https://victor981221.github.io/#blog) » https://victor981221.github.io/#blog
+如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming.github.io/#blog
 
-本文链接：[关于Python3.7和Python3.6中元组类型数据内存存储问题](https://victor981221.github.io/2019/08/tuple-type-id/) » https://victor981221.github.io/2019/08/tuple-type-id/
+本文链接：[关于Python3.7和Python3.6中元组类型数据内存存储问题](https://victorfengming.github.io/2019/08/tuple-type-id/) » https://victorfengming.github.io/2019/08/tuple-type-id/
 
 ***
 大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog.csdn.net/qq_40223983

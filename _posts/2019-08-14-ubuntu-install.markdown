@@ -27,9 +27,9 @@ tags: Linux
 ### 版权说明
 
 ***
-如需转载请注明出处：[凤明的博客](https://victor981221.github.io/#blog) » https://victor981221.github.io/#blog
+如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming.github.io/#blog
 
-本文链接：[Ubuntu系统的安装](https://victor981221.github.io/2019/08/ubuntu-install/) » https://victor981221.github.io/2019/08/ubuntu-install/
+本文链接：[Ubuntu系统的安装](https://victorfengming.github.io/2019/08/ubuntu-install/) » https://victorfengming.github.io/2019/08/ubuntu-install/
 
 ***
 大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog.csdn.net/qq_40223983
