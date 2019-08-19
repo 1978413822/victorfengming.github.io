@@ -16,7 +16,7 @@ PyCharm是一种Python IDE，带有一整套可以帮助用户在使用Python语
 这里面分为两个版本,一个是免费的社区版本,另一是收费的专业版本.对于一些初学者,可以先安装一个社区版本练手,对于稍微有点儿基础的同学,可以下载专业版本,毕竟专业版本的功能更加丰富.
 ### 安装PyCharm  
 下载安装包,可以在[PyCharm官网](http://www.jetbrains.com/pycharm/?fromMenu)下载安装包  
-<div align="left"><img src="/images/posts/pycharm/install1.png"></div>
+<div><img src="/images/posts/pycharm/install1.png" align="left"></div>
 下载好安装包后,双击即可打开    
 <div align="left"><img src="/images/posts/pycharm/install2.png"></div>
 打开后点击next  
