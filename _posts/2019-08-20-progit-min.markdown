@@ -18,7 +18,6 @@ tags: Git
 </head>
 <body>
     <div class="scrollblock block-title">       
-       
         <img src="img/arrow.png" alt="" />
     </div>
     <!-- setup -->
@@ -85,7 +84,6 @@ tags: Git
             如果你还没有克隆现有仓库，并欲将你的仓库连接到某个远程服务器，你可以使用如下命令添加：<br />
             <code>git remote add origin &lt;server&gt;</code><br />
             如此你就能够将你的改动推送到所添加的服务器上去了。<br />
-
         </p>
     </div>
     <a name="branching"></a>
