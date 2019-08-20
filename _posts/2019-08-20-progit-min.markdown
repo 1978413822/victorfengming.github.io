@@ -23,7 +23,7 @@ tags: Git
     <!-- setup -->
     <a name="setup"></a>
     <div class="scrollblock block-setup">
-        <h3>首先关于git的安装，有三种版本供大家选择</h3>
+        <h3>想要使用git，要先进行git的安装，这里有三种版本供大家选择</h3>
         <p>
             <a href="http://git-scm.com/download/mac">下载 git OSX 版</a>
         </p>
@@ -75,7 +75,7 @@ tags: Git
     </div>
     <a name="push"></a>
     <div class="scrollblock block-remote">
-        <h3>推送改动</h3>
+        <h3>推送改动-将本地的数据push到远程端</h3>
         <p>
             你的改动现在已经在本地仓库的 <b>HEAD</b> 中了。执行如下命令以将这些改动提交到远端仓库：<br />
             <code>git push origin master</code><br />
