@@ -64,6 +64,7 @@ PyCharm安装成功后,我们在桌面会发现一个快捷方式,双击打开
 0.0.0.0 account.jetbrains.com
 0.0.0.0 www.jetbrains.com
 ```
+
 ![img description](/images/posts/pycharm/install17.png)
 下面我们回到[IntelliJ IDEA 注册码  
 ](http://idea.lanyus.com/)  
