@@ -17,3 +17,6 @@ tags: Git
 9. 将修改push到我们的github上
 10. pull request
 
+### 关键说明
+详细内容，大家可以参考[天凯同学的博客](https://ttk1907.github.io/)中的[开源项目参加流程](https://ttk1907.github.io/2019/08/20/kaiyuan-project-try/)
+
