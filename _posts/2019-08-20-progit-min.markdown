@@ -24,7 +24,7 @@ tags: Git
     <!-- setup -->
     <a name="setup"></a>
     <div class="scrollblock block-setup">
-        <h2>首先关于git的安装</h2>
+        <h3>首先关于git的安装，有三种版本供大家选择</h3>
         <p>
             <a href="http://git-scm.com/download/mac">下载 git OSX 版</a>
         </p>
@@ -37,7 +37,7 @@ tags: Git
     </div>
     <a name="create"></a>
     <div class="scrollblock block-create">
-        <h2>创建新仓库</h2>
+        <h3>创建一个新仓库，开始你的git之旅吧</h3>
         <p>
             创建新文件夹，打开，然后执行 <br />
             <code>git init</code><br />
@@ -46,7 +46,7 @@ tags: Git
     </div>
     <a name="checkout"></a>
     <div class="scrollblock block-checkout">
-        <h2>检出仓库</h2>
+        <h3>检出仓库，相当于克隆到本地</h3>
         <p>
             执行如下命令以创建一个本地仓库的克隆版本：<br />
             <code>git clone /path/to/repository</code> <br />
@@ -56,7 +56,7 @@ tags: Git
     </div>
     <a name="trees"></a>
     <div class="scrollblock block-trees">
-        <h2>工作流</h2>
+        <h3>关于工作流的相关说明</h3>
         <p>
             你的本地仓库由 git 维护的三棵“树”组成。第一个是你的 <code>工作目录</code>，它持有实际文件；第二个是 <code>暂存区（Index）</code>，它像个缓存区域，临时保存你的改动；最后是 <code>HEAD</code>，它指向你最后一次提交的结果。
         </p>
@@ -64,7 +64,7 @@ tags: Git
     </div>
     <a name="add"></a>
     <div class="scrollblock block-add">
-        <h2>添加和提交</h2>
+        <h3>添加和提交你的更改，让你的贡献生效</h3>
         <p>
             你可以提出更改（把它们添加到暂存区），使用如下命令：<br />
             <code>git add &lt;filename&gt;</code><br />
@@ -76,7 +76,7 @@ tags: Git
     </div>
     <a name="push"></a>
     <div class="scrollblock block-remote">
-        <h2>推送改动</h2>
+        <h3>推送改动</h3>
         <p>
             你的改动现在已经在本地仓库的 <b>HEAD</b> 中了。执行如下命令以将这些改动提交到远端仓库：<br />
             <code>git push origin master</code><br />
@@ -90,7 +90,7 @@ tags: Git
     </div>
     <a name="branching"></a>
     <div class="scrollblock block-branching">
-        <h2>分支</h2>
+        <h3>分支-最重要的概念</h3>
         <p>
             分支是用来将特性开发绝缘开来的。在你创建仓库的时候，<i>master</i> 是“默认的”分支。在其他分支上进行开发，完成后再将它们合并到主分支上。
         </p>
@@ -108,7 +108,7 @@ tags: Git
     </div>
     <a name="update"></a>
     <div class="scrollblock block-merging">
-        <h2>更新与合并</h2>
+        <h3>更新与合并</h3>
         <p>
             要更新你的本地仓库至最新改动，执行：<br />
             <code>git pull</code><br />
@@ -124,7 +124,7 @@ tags: Git
     </div>
     <a name="tagging"></a>
     <div class="scrollblock block-tagging">
-        <h2>标签</h2>
+        <h3>关于标签</h3>
         <p>
             为软件发布创建标签是推荐的。这个概念早已存在，在 SVN 中也有。你可以执行如下命令创建一个叫做 <i>1.0.0</i> 的标签：<br />
             <code>git tag 1.0.0 1b2e1d63ff</code><br />
@@ -135,7 +135,7 @@ tags: Git
     </div>
     <a name="checkout-replace"></a>
     <div class="scrollblock block-checkout-replace">
-        <h2>替换本地改动</h2>
+        <h3>替换本地改动-你的后悔药</h3>
         <p>
             假如你操作失误（当然，这最好永远不要发生），你可以使用如下命令替换掉本地改动：<br />
             <code>git checkout -- &lt;filename&gt;</code><br />
@@ -149,7 +149,7 @@ tags: Git
     </div>
     <a name="hints"></a>
     <div class="scrollblock block-hints">
-        <h2>实用小贴士</h2>
+        <h3>实用小贴士-送你拿去不谢</h3>
         <p>
             内建的图形化 git：<br />
             <code>gitk</code><br />
@@ -163,8 +163,8 @@ tags: Git
     </div>
     <a name="resources"></a>
     <div class="scrollblock block-resources">
-        <h2>链接与资源</h2>
-        <h3>图形化客户端</h3>
+        <h3>链接与资源</h3>
+        <h3>图形化客户端-这个好用</h3>
         <p>
             <ul>
                 <li><a href="http://gitx.laullon.com/">GitX (L) (OSX, 开源软件)</a></li>
@@ -174,7 +174,7 @@ tags: Git
                 <li><a href="https://itunes.apple.com/gb/app/gitbox/id403388357?mt=12">GitBox (OSX, App Store)</a></li>
             </ul>
         </p>
-        <h3>指南和手册</h3>
+        <h3>指南和手册-费劲八力收集的</h3>
         <p>
             <ul>
                 <li><a href="http://book.git-scm.com/">Git 社区参考书</a></li>
