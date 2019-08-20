@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "git工具基础"
+title: "git个人整理总结"
 date: 2019-08-17 
 tags: Linux  
 ---
@@ -26,7 +26,7 @@ tags: Linux
     <!-- setup -->
     <a name="setup"></a>
     <div class="scrollblock block-setup">
-        <h2>安装</h2>
+        <h2>首先关于git的安装</h2>
         <p>
             <a href="http://git-scm.com/download/mac">下载 git OSX 版</a>
         </p>
