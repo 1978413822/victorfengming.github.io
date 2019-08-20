@@ -6,7 +6,7 @@ tags: Linux
 ---
 
 
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="utf-8">
@@ -18,15 +18,8 @@ tags: Linux
 </head>
 <body>
     <div class="scrollblock block-title">
-        <h1>git - 简明指南</h1>
-        <p>助你入门 git 的简明指南，木有高深内容 ;)</p>
-       
-        <p class="meta">
-            作者：<a href="http://www.twitter.com/rogerdudler">罗杰·杜德勒</a>
-            <br />感谢：<a href="http://www.twitter.com/tfnico">@tfnico</a>, <a href="http://www.twitter.com/fhd">@fhd</a> 和 <a href="http://www.namics.com">Namics</a><br />
-            
-            如有纰漏，请在 <a href="https://github.com/rogerdudler/git-guide/issues">github</a> 提报问题
-        </p>
+        <h1>git - 个人总结</h1>
+        
        
         <img src="img/arrow.png" alt="" />
     </div>
