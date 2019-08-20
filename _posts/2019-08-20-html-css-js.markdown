@@ -6,7 +6,6 @@ tags: 前端
 ---
 
 
-### 前端相关索引汇总
 ### HTML相关
 - [HTML概述和基本结构](https://blog.csdn.net/qq_40223983/article/details/96093661)
 - [HTML中Head头](https://blog.csdn.net/qq_40223983/article/details/96093970)
