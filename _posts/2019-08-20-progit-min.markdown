@@ -161,7 +161,6 @@ tags: Git
     </div>
     <a name="resources"></a>
     <div class="scrollblock block-resources">
-        <h3>链接与资源</h3>
         <h3>图形化客户端-这个好用</h3>
         <p>
             <ul>
