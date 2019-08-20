@@ -1,5 +1,5 @@
 ---
-layout: post/test
+layout: post
 title: "git生成SSH并提交"
 date: 2019-08-19 
 tags: Git  

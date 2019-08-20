@@ -21,13 +21,13 @@ layout: default
 </article>
 
 <h3>版权说明</h3>
-
-如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming.github.io/#blog
+如需转载请注明出处：<a href="https://victorfengming.github.io/#blog">凤明的博客</a> » https://victorfengming.github.io/#blog
 <!-- <p>本文链接：https://victorfengming.github.io/2019/08/github-generate-ssh/</p> -->
-本文链接：<p id="self_url">morenzhi</p>
+<a id="self_herf">本文链接</a>：<p id="self_url"></p>
 
 
-大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog. csdn. net/qq_40223983
+大家可以关注小编的CSDN：
+<a href="https://blog.csdn.net/qq_40223983">秋叶夏风的博客</a> » https://blog.csdn.net/qq_40223983
 
 {% include new-old.html %}
 {% include comments.html %}
@@ -36,6 +36,7 @@ layout: default
   window.onload=function(){
     url = window.location.href;
     document.getElementById('self_url').innerHTML=url;
+    document.getElementById('self_herf').href=url;
   }
   
 </script>
