@@ -23,9 +23,8 @@ layout: default
 <h3>版权说明</h3>
 如需转载请注明出处：<a href="https://victorfengming.github.io/#blog">凤明的博客</a> » https://victorfengming.github.io/#blog
 <br>
-本文链接：<span id="self_url"></span>
-
-
+<p id="self_url"></p>
+<br>
 大家可以关注小编的CSDN：
 <a href="https://blog.csdn.net/qq_40223983">秋叶夏风的博客</a> » https://blog.csdn.net/qq_40223983
 
@@ -35,7 +34,7 @@ layout: default
 <script>
   window.onload=function(){
     url = window.location.href;
-    document.getElementById('self_url').innerHTML=url;
+    document.getElementById('self_url').innerHTML='本文链接：'+url;
   }
   
 </script>
