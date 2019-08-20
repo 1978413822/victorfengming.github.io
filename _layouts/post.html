@@ -20,6 +20,24 @@ layout: default
   </section>
 </article>
 
-<h3>版权信息哦</h3>
+<h3>版权说明</h3>
+
+如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming.github.io/#blog
+<!-- <p>本文链接：https://victorfengming.github.io/2019/08/github-generate-ssh/</p> -->
+本文链接：<p id="self_url">morenzhi</p>
+
+
+大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog. csdn. net/qq_40223983
+
 {% include new-old.html %}
 {% include comments.html %}
+
+<script>
+  window.onload=function(){
+    url = window.location.href;
+    console.log(url)
+    con = document.getElementById('self_url')
+    con.content = "https://victorfengming.github.io/2019/08/github-generate-ssh/"
+  }
+  
+</script>
