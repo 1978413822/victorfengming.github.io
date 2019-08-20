@@ -17,9 +17,7 @@ tags: Linux
     <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
-    <div class="scrollblock block-title">
-        <h1>git - 个人总结</h1>
-        
+    <div class="scrollblock block-title">       
        
         <img src="img/arrow.png" alt="" />
     </div>
