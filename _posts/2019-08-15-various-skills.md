@@ -63,6 +63,11 @@ tags: skills
         那当然能了  
         window也能
 
+3. [caoyang7](https://caoyang7.github.io/)问，chrome浏览器中居然还能看手机的样式？  
+    答：
+        哇塞这个太厉害了，我的天呐！
+        不仅能预览手机模式，还能选择手机型号，整挺好！  
+![imgdes](/images/posts/technology/chrome-phone.png)    
 
 
 <br>
