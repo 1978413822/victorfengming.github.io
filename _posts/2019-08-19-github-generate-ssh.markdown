@@ -33,15 +33,3 @@ git commit -m”SSH有瑕疵“
 git push -u origin master  
 到这里可以发现无需输入密码即可将本地的已提交内容推送到服务端
 
-***
-### 版权说明
-
-***
-如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming. github. io/#blog
-
-本文链接：[git生成SSH并提交](https://victorfengming.github.io/2019/08/github-generate-ssh/) » https://victorfengming. github. io/2019/08/github-generate-ssh/)
-
-***
-大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog. csdn. net/qq_40223983
-
-***

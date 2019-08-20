@@ -39,15 +39,3 @@ Vim是从 vi 发展出来的一个文本编辑器。代码补完、编译及错�
 [博客园 -> vim简单使用教程 ](https://www.cnblogs.com/lijia0511/p/5644566.html)
 
 
-***
-### 版权说明
-
-***
-如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming.github.io/#blog
-
-本文链接：[vim编辑器简介](https://victorfengming.github.io/2019/08/vim/) » https://victorfengming.github.io/2019/08/vim/
-
-***
-大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog.csdn.net/qq_40223983
-
-***

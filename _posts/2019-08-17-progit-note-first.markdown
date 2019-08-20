@@ -52,15 +52,3 @@ HTTP/S 协议
 [github上分支的合并](https://www.cnblogs.com/leilei0327/p/8688244.html)  
 [参与github上开源项目的大致流程和注意事项](https://www.cnblogs.com/metoy/p/4097001.html)  
 
-***
-### 版权说明
-
-***
-如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming.github.io/#blog
-
-本文链接：[git工具基础](https://victorfengming.github.io/2019/08/progit-note-first/) » https://victorfengming.github.io/2019/08/progit-note-first/
-
-***
-大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog.csdn.net/qq_40223983
-
-***

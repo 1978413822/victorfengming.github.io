@@ -127,15 +127,3 @@ def func(self):
 
 
 
-***
-### 版权说明
-
-***
-如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming.github.io/#blog
-
-本文链接：[markdown简识](https://victorfengming.github.io/2019/08/markdown-easy/) » https://victorfengming.github.io/2019/08/markdown-easy/
-
-***
-大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog.csdn.net/qq_40223983
-
-***

@@ -23,15 +23,3 @@ tags: Linux
 这里设置安装位置，语音，驱动等配置参数
 等待安装成功即可
 
-***
-### 版权说明
-
-***
-如需转载请注明出处：[凤明的博客](https://victorfengming.github.io/#blog) » https://victorfengming.github.io/#blog
-
-本文链接：[Ubuntu系统的安装](https://victorfengming.github.io/2019/08/ubuntu-install/) » https://victorfengming.github.io/2019/08/ubuntu-install/
-
-***
-大家可以关注小编的CSDN：[秋叶夏风的博客](https://blog.csdn.net/qq_40223983) » https://blog.csdn.net/qq_40223983
-
-***
